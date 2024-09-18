@@ -52,6 +52,8 @@
 
 <hr>
 
+> Here are the repositories in without alphabetical order:
+
 1. [DevOps-Tools-And-CMD-S](https://github.com/HackBugs/DevOps-Tools-And-CMD-S) 
 2. [LINUX-COMMANDS](https://github.com/HackBugs/LINUX-COMMANDS) 
 3. [DevOps_Ultimate_Pipeline_installation_Steps](https://github.com/HackBugs/DevOps_Ultimate_Pipeline_installation_Steps) 
