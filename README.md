@@ -2,6 +2,8 @@
 
 > Here are the repositories in alphabetical order:
 
+<hr>
+
 1. [All-Project-Links](https://github.com/HackBugs/All-Project-Links) 
 2. [AWS-Cheatsheet-For-DevOps](https://github.com/HackBugs/AWS-Cheatsheet-For-DevOps) 
 3. [AWS-Springboot-reactapp-project](https://github.com/HackBugs/AWS-Springboot-reactapp-project) 
@@ -95,3 +97,4 @@
 43. [oracle-dba-scripts-1](https://github.com/HackBugs/oracle-dba-scripts-1) 
 44. [Oracle-DBA-Scripts.sh](https://github.com/HackBugs/Oracle-DBA-Scripts.sh) 
 45. [oracle_master](https://github.com/HackBugs/oracle_master)
+<hr>
